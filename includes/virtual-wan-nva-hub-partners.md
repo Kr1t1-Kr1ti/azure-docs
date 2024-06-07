@@ -20,6 +20,7 @@ The following security Network Virtual Appliance can be deployed in the Virtual 
 
 |Partners| Virtual WAN NVA Vendor | Configuration/How-to/Deployment guide| Dedicated support model |
 |---|---| --- | ---|
+|[Palo Alto Networks Cloud NGFW Azure Virtual WAN](https://www.paloaltonetworks.co.uk/sase/sd-wan) | Palo Alto Networks| [Palo Alto Networks Cloud NGFW Azure Virtual WAN](https://docs.paloaltonetworks.com/prisma/prisma-sd-wan/deployment-and-integrations/prisma-sd-wan-azure-virtual-wan-cloudblade-integration/prisma-sd-wan-azure-virtual-wan-cloudblade-integration/prisma-sd-wan-azure-virtual-wan-cloudblade-integration-requirements) deployment guide | Yes |
 |[Check Point CloudGuard Network Security for Azure Virtual WAN](https://www.checkpoint.com/cloudguard/microsoft-azure-security/wan/) | checkpoint| [Check Point Network Security for Virtual WAN](https://sc1.checkpoint.com/documents/IaaS/WebAdminGuides/EN/CP_CloudGuard_Network_for_Azure_vWAN/Default.htm) deployment guide | No |
 |[Fortinet Next-Generation Firewall (NGFW)](https://www.fortinet.com/products/next-generation-firewall)| fortinet-ngfw|[Fortinet NGFW](https://aka.ms/fortinetngfwdocumentation) deployment guide.  Fortinet NGFW supports up to 80 scale units and isn't recommended to be used for SD-WAN tunnel termination. For Fortigate SD-WAN tunnel termination, see [Fortinet SD-WAN and NGFW documentation](https://aka.ms/fortinetdualroledocumentation). | No|
 
